@@ -5,3 +5,10 @@ h1{
     background-color: lightgray;
     padding: 10px;
 }
+b{
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    background-color: lightgray;
+    padding: 10px;
+} 
